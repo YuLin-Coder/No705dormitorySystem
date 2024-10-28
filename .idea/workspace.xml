@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dormitorySystem:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c950e1df-adaf-4f90-9202-51a6e8067305" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dormitory@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dormitory@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="custom" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/WEB-INF/jsp/student_list.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2H2p0sJ4KLQkCj2KlXBq6tNkP3m" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/hkw/Desktop/dormitorySystem/src/springmvc-config.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562417972561" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Student_dorm_System" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-File\dormitorySystem" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\js" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\lib\layui" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\images" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.util" />
+      <recent name="com.itheima.service.impl" />
+      <recent name="com.itheima.service" />
+      <recent name="com.itheima.dao" />
+      <recent name="com.itheima.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA-File\dormitorySystem\web\layui_exts" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\WEB-INF\jsp" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dormitorySystem" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="dormitorySystem:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_dormitorySystem_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54670" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dormitorySystem:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2191358" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c950e1df-adaf-4f90-9202-51a6e8067305" name="Default" comment="" />
+      <created>1541065542942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541065542942</updated>
+      <workItem from="1541065548844" duration="9743000" />
+      <workItem from="1541135284805" duration="2324000" />
+      <workItem from="1541138175716" duration="322000" />
+      <workItem from="1541138750533" duration="6145000" />
+      <workItem from="1541162242104" duration="549000" />
+      <workItem from="1541163126693" duration="404000" />
+      <workItem from="1541163563767" duration="5968000" />
+      <workItem from="1541221262343" duration="9237000" />
+      <workItem from="1541332692439" duration="4410000" />
+      <workItem from="1541337157608" duration="2082000" />
+      <workItem from="1541492160656" duration="10556000" />
+      <workItem from="1541511500484" duration="20000" />
+      <workItem from="1541557479445" duration="1178000" />
+      <workItem from="1541571610058" duration="4955000" />
+      <workItem from="1541657446021" duration="4926000" />
+      <workItem from="1541673992522" duration="8527000" />
+      <workItem from="1541742672964" duration="16395000" />
+      <workItem from="1541826892941" duration="9998000" />
+      <workItem from="1542015509767" duration="15930000" />
+      <workItem from="1542090842782" duration="21681000" />
+      <workItem from="1542171962785" duration="1436000" />
+      <workItem from="1542184226099" duration="15853000" />
+      <workItem from="1542263167003" duration="8849000" />
+      <workItem from="1542272261605" duration="5891000" />
+      <workItem from="1542338555969" duration="27877000" />
+      <workItem from="1542425812383" duration="23582000" />
+      <workItem from="1542463247727" duration="175000" />
+      <workItem from="1542521237413" duration="16888000" />
+      <workItem from="1542558337674" duration="15000" />
+      <workItem from="1542699402844" duration="599000" />
+      <workItem from="1542711063614" duration="211000" />
+      <workItem from="1555577791703" duration="4048000" />
+      <workItem from="1555585739919" duration="6547000" />
+      <workItem from="1555596521847" duration="2817000" />
+      <workItem from="1555638762059" duration="1049000" />
+      <workItem from="1555641176526" duration="4510000" />
+      <workItem from="1555723580195" duration="45575000" />
+      <workItem from="1555811797003" duration="53766000" />
+      <workItem from="1556071164358" duration="33094000" />
+      <workItem from="1556242622091" duration="5219000" />
+      <workItem from="1556327758414" duration="903000" />
+      <workItem from="1556355927713" duration="1564000" />
+      <workItem from="1556381913866" duration="26462000" />
+      <workItem from="1557306227014" duration="643000" />
+      <workItem from="1557390865673" duration="1283000" />
+      <workItem from="1557561632993" duration="636000" />
+      <workItem from="1557626393069" duration="136348000" />
+      <workItem from="1558156446741" duration="2207000" />
+      <workItem from="1558196970734" duration="1875000" />
+      <workItem from="1558488861401" duration="316000" />
+      <workItem from="1558489233852" duration="971000" />
+      <workItem from="1558505222129" duration="2491000" />
+      <workItem from="1558616419761" duration="4745000" />
+      <workItem from="1559313301809" duration="666000" />
+      <workItem from="1559318763986" duration="522000" />
+      <workItem from="1559574776004" duration="997000" />
+      <workItem from="1559658602138" duration="3925000" />
+      <workItem from="1560590403321" duration="3685000" />
+      <workItem from="1562410239127" duration="6992000" />
+      <workItem from="1667492819815" duration="50000" />
+      <workItem from="1667492888553" duration="47000" />
+      <workItem from="1668059139085" duration="88000" />
+      <workItem from="1668060906768" duration="767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="172" key="#Tomcat_Server" timestamp="1667492931258">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="172" key="#Tomcat_Server/0.0.1707.1027@0.0.1707.1027" timestamp="1667492931258" />
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667492934478">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1667492934478" />
+    <state x="635" y="253" key="FileChooserDialogImpl" timestamp="1667492930041">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="635" y="253" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1667492930041" />
+    <state width="1264" height="415" key="GridCell.Tab.0.bottom" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.0.center" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.0.left" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.0.right" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.1.bottom" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.1.center" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.1.left" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.1.right" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.2.bottom" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.2.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.2.center" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.2.center/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.2.left" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.2.left/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state width="1264" height="415" key="GridCell.Tab.2.right" timestamp="1668059227966">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1264" height="415" key="GridCell.Tab.2.right/0.0.1707.1027@0.0.1707.1027" timestamp="1668059227966" />
+    <state x="534" y="246" width="638" height="534" key="find.popup" timestamp="1667492912542">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="534" y="246" width="638" height="534" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1667492912542" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>dormitorySystem:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dormitorySystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
